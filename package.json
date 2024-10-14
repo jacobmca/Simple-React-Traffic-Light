@@ -1,0 +1,19 @@
+{
+  "name": "simple-react-traffic-light",
+  "version": "1.0.0",
+  "description": "Exactly what the title says.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobmca/Simple-React-Traffic-Light.git"
+  },
+  "author": "Jacob McAuliffe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobmca/Simple-React-Traffic-Light/issues"
+  },
+  "homepage": "https://github.com/jacobmca/Simple-React-Traffic-Light#readme"
+}
